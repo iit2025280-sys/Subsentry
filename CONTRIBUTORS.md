@@ -80,3 +80,7 @@ This project exists because of your time, effort, and curiosity.
 - **Name:** Apoorv Mittal
 - **GitHub:** https://github.com/Apoorv012
 - **About:** Third-year B.Tech student in Computer Science. Passionate about Backend development"
+
+- **Name:** Akshat Parmar
+- **GitHub:** https://github.com/AkshaTGA
+- **About:** Second-year B.Tech student in Computer Science. Passionate about Backend development :]"
